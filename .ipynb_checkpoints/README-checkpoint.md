@@ -15,8 +15,8 @@ Learning Goals:
 
 ## Table of Contents:
 
-1. [Notebook 1](1_Github.ipynb): Introduction to GitHub - Setting Up an Account & Basics of Operations.
-2. [Notebook 2](2_Intro_Jupyter_Notebooks.ipynb): Getting Started with Jupyter Notebooks - Installation and Basic Operations.
-3. [Notebook 3](3_Formatting_JupyterNotebooks.ipynb): Getting Started with Jupyter Notebooks - Formatting.
+1. [Notebook 1](1_GitHub.ipynb): Introduction to GitHub - Setting Up an Account & Basics of Operations.
+2. [Notebook 2](2_Intro_Jupter_Notebooks.ipynb): Getting Started with Jupyter Notebooks - Installation and Basic Operations.
+3. [Notebook 3](3_FormattingJupyterNotebooks.ipynb): Getting Started with Jupyter Notebooks - Formatting.
 4. [Notebook 4](4_Sample_Activity.ipynb): Crafting STEM Activities with Jupyter - Integration of Code, Visualizations, and Text.
 5. [Notebook 5](5_Recommendations.ipynb): Best Practices - Enhancing STEM Learning with Jupyter.
