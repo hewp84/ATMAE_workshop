@@ -20,3 +20,8 @@ Learning Goals:
 3. [Notebook 3](3_FormattingJupyterNotebooks.ipynb): Getting Started with Jupyter Notebooks - Formatting.
 4. [Notebook 4](4_Sample_Activity.ipynb): Crafting STEM Activities with Jupyter - Integration of Code, Visualizations, and Text.
 5. [Notebook 5](5_Recommendations.ipynb): Best Practices - Enhancing STEM Learning with Jupyter.
+
+## Recommended Downloads
+
+* [GitHub Desktop](https://desktop.github.com/)
+* [Anaconda Navigator](https://www.anaconda.com/download)
